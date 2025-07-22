@@ -10,6 +10,8 @@
    - [Project Outcome](#project-outcome)
 ### Project OverView
    This data analysis project aims to analyze the sales based on various product categories, thereby creating a dynamic dashboard which enables the users to be able to pick a product category and see trends month-by-month and product-by-product using Microsoft Excel.
+   
+ ![Screenshot 2](https://github.com/user-attachments/assets/ba06188d-f4d0-4e65-9df0-8156208c2419)
 
 ### Data Source
    Sales Data: The dataset in file "E-Commerce Dashboard dataset.xlsx" contains sales data for different product categories made by the company.
@@ -56,6 +58,11 @@
      7. Linked the table with a combo box.
      8. Created a dashboard and calculated the predicted and actual tip values.
      9. Calculated the RMSE (Root mean square error) of the model.
+
+     ![Screenshot 1](https://github.com/user-attachments/assets/17cbb6fc-e091-4dc2-81e1-d833101930a1)
+     
+     ![Screenshot 3](https://github.com/user-attachments/assets/5fa002fe-ce10-40df-b1e1-29c4017b4064)
+
     
 ### Project Outcome
    - The dashboard is ready to analyze the sales based on various product categories.
